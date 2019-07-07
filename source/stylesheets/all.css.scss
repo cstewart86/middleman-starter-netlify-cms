@@ -2,16 +2,16 @@
 @charset 'utf-8';
 
 //bootstrap stuff
-@import 'demo/base/variables';
-@import 'demo/base/mixins';
-@import 'demo/base/normalize';
-@import 'demo/base/scaffolding';
-@import 'demo/base/type';
+@import 'obsidian/base/variables';
+@import 'obsidian/base/mixins';
+@import 'obsidian/base/normalize';
+@import 'obsidian/base/scaffolding';
+@import 'obsidian/base/type';
 
 @import 'obsidian/base/colours';
-@import 'demo/base/typography';
-@import 'demo/base/grid';
-@import 'demo/base/placeholders';
+@import 'obsidian/base/typography';
+@import 'obsidian/base/grid';
+@import 'obsidian/base/placeholders';
 
 @import 'demo/shared/header-primary';
 @import 'demo/shared/main-content';
