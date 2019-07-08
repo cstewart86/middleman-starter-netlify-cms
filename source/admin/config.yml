@@ -77,7 +77,7 @@ collections:
             name: currency
             widget: select
             options: ['€', '$', '£']
-            default: '€'
+            default: '£'
 
           - label: Weight
             name: weight
