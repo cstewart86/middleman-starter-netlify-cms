@@ -8,4 +8,4 @@ section.products
       - data.products.sort {|a,b| b[1].date <=> a[1].date}.each do | product |
 
         //to get the actual data:
-        = partial 'partials/services/service', locals: {services: product[1]}
+        = partial 'partials/services/service', locals: {product: product[1]}
