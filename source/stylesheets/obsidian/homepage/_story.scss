@@ -1,5 +1,6 @@
 .homepage-story {
   background: $white-text;
+  color: $background-primary-color;
 
   .story-content {
     @extend %column;
