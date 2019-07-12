@@ -71,7 +71,9 @@
     font-size: 18px;
     font-weight: 700;
     text-decoration: underline;
-    color: $primary-color;
+    background-color: $primary-color;
+    color: $white-text;
+    display: inline-block;
   }
 
   @media screen and (max-width: $screen-md-max) {
