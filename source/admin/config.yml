@@ -12,7 +12,7 @@ collections:
     label: Product
     format: yml
     extension: yml
-    folder: data/services/
+    folder: data/products/
     create: true
     slug: '{{title}}'
     fields:
