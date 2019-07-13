@@ -1,7 +1,7 @@
 footer
   = partial 'partials/shared/header-primary'
 
-    nav.navigation
+    nav.navigation[aria-label="quick links"]
       ul
         - data.settings.navigation.nav_items.each do | nav_item |
           li
