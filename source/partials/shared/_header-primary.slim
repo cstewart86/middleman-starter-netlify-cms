@@ -8,7 +8,6 @@ header.header-primary
     = image_tag 'nav-close.svg', class: 'close'
 
   nav.navigation
-    aria-label=main
     ul
       - data.settings.navigation.nav_items.each do | nav_item |
         li
