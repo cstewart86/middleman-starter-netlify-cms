@@ -106,7 +106,12 @@ hr {
 		border: 1px solid blue;
 		width: 100%;
 		font-size: 18px;
-    }
+    	}
+	.cta {
+		background-color: $brand-red;
+		color: #fff;
+		margin-bottom: 15px;
+	}
 }
 
 .contact-form {
