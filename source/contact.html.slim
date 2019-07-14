@@ -2,14 +2,10 @@
 title: Get in touch
 ---
 
-section.products
-  .container
-    h2
-      | Services
-    .row
-      //product is structured: ['filename', 'data']
-      //sort by newest product
-      - data.products.sort {|a,b| b[1].date <=> a[1].date}.each do | product |
+section.hero style=background_image(image_path(data.pages.home.hero.image))
 
-        //to get the actual data:
-        = partial 'partials/services/service', locals: {product: product[1]}
+section.homepage-story
+  .container
+    .row
+      .story-content
+        = markdown data.pages.contact.story
