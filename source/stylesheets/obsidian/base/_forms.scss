@@ -31,29 +31,7 @@ $border_color_6: #843534;
 		border: 0;
 	}
 }
-fieldset[disabled] {
-	.form-control {
-		background-color: $background_color_2;
-		opacity: 1;
-		cursor: not-allowed;
-	}
-	input[type=checkbox] {
-		cursor: not-allowed;
-	}
-	input[type=radio] {
-		cursor: not-allowed;
-	}
-	.checkbox-inline {
-		cursor: not-allowed;
-	}
-	.radio-inline {
-		cursor: not-allowed;
-	}
-	.checkbox {
-		label {
-			cursor: not-allowed;
-		}
-	}
+
 	.radio {
 		label {
 			cursor: not-allowed;
