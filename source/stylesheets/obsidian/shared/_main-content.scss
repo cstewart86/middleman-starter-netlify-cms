@@ -19,7 +19,7 @@
 	}
 	textarea {
 		height: auto;
-		border: 1px solid blue;
+		border: 1px solid $brand-dark-blue;
 		width: 100%;
 		font-size: 18px;
     	}
@@ -31,4 +31,10 @@
 
 button.cta {
   background-color: $brand-red;
+  color: $white-text;
+  padding: 20px 15px 20px 15px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  font-size: 18px;
 }
