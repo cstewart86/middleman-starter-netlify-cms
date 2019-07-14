@@ -99,18 +99,16 @@ hr {
 		height: 30px;
 		width: 100%;
                 display: block;
-                font-size: 18px;
+		font-size: 18px;
 	}
+	textarea {
+		height: auto;
+		border: 1px solid blue;
+		width: 100%;
+		font-size: 18px;
+    }
 }
 
 .contact-form {
   padding: 0 20px 0 20px;
 }
-
-
-textarea.form-control {
-        height: auto;
-        border: 1px solid blue;
-        width: 100%;
-        font-size: 18px;
-    }
