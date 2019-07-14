@@ -13,21 +13,18 @@ section.homepage-story
 section
   .container
     .row
-      form[name="contact" netlify]
-  p
-    label
-      | Name 
-      input[type="text" name="name"]
-  p
-    label
-      | Email 
-      input[type="email" name="email"]
-
-p
-  label
-    | Message: 
-    textarea[name="message"]
-
-  p
-    button[type="submit"]
-      | Send
+      form[name="contact" method="post" netlify]
+  .form-group
+    label[for="contactName"]
+      | Name
+    input#contact Name.form-control[type="text" name="contactName" placeholder="Enter name"]
+  .form-group
+    label[for="contactEmail"]
+      | Email address
+    input#contactEmail.form-control[type="email" name="contactEmail" placeholder="Enter email"]
+  .form-group
+    label[for="contactMessage"]
+      | Message
+    textarea#contactMessage[name="contactMessage"]
+  button.cta[type="submit"]
+    | Get in touch
