@@ -31,15 +31,6 @@ $border_color_6: #843534;
 		border: 0;
 	}
 }
-.form-control[disabled] {
-	background-color: $background_color_2;
-	opacity: 1;
-	cursor: not-allowed;
-}
-.form-control[readonly] {
-	background-color: $background_color_2;
-	opacity: 1;
-}
 fieldset[disabled] {
 	.form-control {
 		background-color: $background_color_2;
