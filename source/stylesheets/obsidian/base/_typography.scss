@@ -12,11 +12,11 @@ p {
 
 h1, h2, h3 {
   line-height: 1.2;
+  color: $brand-red;
 }
 h1 {
   font-size: 64px;
   font-weight: 700;
-  color: $brand-red;
 }
 
 
@@ -56,4 +56,3 @@ h3 {
     line-height: 24px;
   }
 }
-
