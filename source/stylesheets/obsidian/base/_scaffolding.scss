@@ -110,5 +110,10 @@ hr {
 }
 
 .contact-form {
-  padding: 0 20px 0 20px;
+	padding: 0 20px 0 20px;
+	.cta {
+		background-color: $brand-red;
+		color: #fff;
+		margin-bottom: 15px;
+	}
 }
