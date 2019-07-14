@@ -94,14 +94,10 @@ hr {
                 display: block;
 	}
 	input {
-		border: 1px solid $brand-dark-blue;
+		border: 1px solid #000;
 		height: 30px;
 		width: 100%;
                 display: block;
-	}
-	.cta {
-		background-color: $brand-red;
-		color: $white-text;
 	}
 }
 
