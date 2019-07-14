@@ -9,3 +9,19 @@ section.homepage-story
     .row
       .story-content
         = markdown data.pages.contact.story
+
+section
+  .container
+    .row
+      form[name="contact" netlify]
+  p
+    label
+      | Name 
+      input[type="text" name="name"]
+  p
+    label
+      | Email 
+      input[type="email" name="email"]
+  p
+    button[type="submit"]
+      | Send
