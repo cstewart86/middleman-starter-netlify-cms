@@ -2,9 +2,9 @@
 title: How to audit your website’s speed
 date: 2019-07-13T10:01:00.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  It’s now widely known that speed is one of the key factors that search engines
+  use to determine the quality of your website. But how do you know if you have
+  a problem?
 image: /images/uploads/news_item-02.jpg
 ---
 
