@@ -4,8 +4,10 @@ title: Get in touch
 
 section.hero style=background_image(image_path(data.pages.home.hero.image))
 
-section.homepage-story
+section.products
   .container
+    h2
+      | Services
     .row
-      .story-content
-        = markdown data.pages.home.story
+        //to get the actual data:
+        = partial 'partials/services/service', locals: {product: product[1]}
