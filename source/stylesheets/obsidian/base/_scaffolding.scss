@@ -90,12 +90,14 @@ hr {
 	margin-bottom: 15px;
 	width: 100%;
 	label {
-		width: 25%;
+		width: 100%;
+                display: block;
 	}
 	input {
 		border: 1px solid #000;
 		height: 16px;
-		width: 75%;
+		width: 100%;
+                display: block;
 	}
 }
 
