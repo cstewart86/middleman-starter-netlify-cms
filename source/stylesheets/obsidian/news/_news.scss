@@ -81,6 +81,12 @@
     border: 1px transparent solid;
     border-radius:5px;
     text-decoration: none;
+    &:focus {
+      background-color: darken( $brand-red, 10% );
+    }
+    &:hover {
+      background-color: darken( $brand-red, 10% );
+    }
   }
 
   @media screen and (max-width: $screen-md-max) {
