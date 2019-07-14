@@ -2,10 +2,12 @@ doctype html
 html
   head
     = partial 'layouts/meta'
+
+    link href="https://fonts.googleapis.com/css?family=Questrial&amp;display=swap" rel="stylesheet"
     
     = stylesheet_link_tag "all"
 
-    link href="https://fonts.googleapis.com/css?family=Questrial&amp;display=swap" rel="stylesheet"
+    link rel="preload" href="/javascripts/main.js"
 
     // Include netlify identity widget for user registration
     script src="https://identity.netlify.com/v1/netlify-identity-widget.js" type="text/javascript" 
