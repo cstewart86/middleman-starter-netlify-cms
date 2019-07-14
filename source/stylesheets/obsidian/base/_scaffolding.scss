@@ -92,13 +92,14 @@ hr {
 	label {
 		width: 100%;
                 display: block;
-                font-size: 20px;
+                font-size: 18px;
 	}
 	input {
 		border: 1px solid blue;
 		height: 30px;
 		width: 100%;
                 display: block;
+                font-size: 18px;
 	}
 }
 
@@ -110,4 +111,6 @@ hr {
 textarea.form-control {
         height: auto;
         border: 1px solid blue;
+        width: 100%;
+        font-size: 18px;
     }
