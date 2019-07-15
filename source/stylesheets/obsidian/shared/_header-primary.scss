@@ -32,7 +32,7 @@
       font-weight: 700;
       color: $text-color;
       &.active, &:hover, &:focus{
-        color: $primary-color;
+        color: $brand-red;
       }
     }
     @media screen and (max-width: $screen-xs-max){
@@ -50,7 +50,6 @@
     img {
       width: 80px;
       height: 80px;
-      color: $brand-dark-blue;
     }
     .open {
       display: block;
