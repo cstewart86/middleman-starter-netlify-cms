@@ -13,6 +13,6 @@ name": "Redwave Marketing",
 "scope": "/",
 "start_url": "/?utm_source=homescreen%20icon",
 "display": "standalone",
-"background_color": "#3D8705",
-"theme_color": "#3D8705"
+"background_color": "#D93635",
+"theme_color": "#D93635"
 }
