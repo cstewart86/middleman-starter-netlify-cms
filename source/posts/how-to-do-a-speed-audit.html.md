@@ -25,7 +25,7 @@ If you’re hungry for more information, you can also visit [website.grader.com]
 
 [GT Metrix](https://gtmetrix.com) is another good tool to assess site speed. The majority of recommendations it provides will only be understood by a developer but it does provide two grades, provided by two different scoring systems, which can give you an indication of how your site compares.
 
-## Fixing any issues
+## Fixing the issues
 
 A lot of speed issues are quite technical but we've set out below some fixes that you can make with yourself along with some more technical considerations to allow you to have an informed discussion with your developer.
 
