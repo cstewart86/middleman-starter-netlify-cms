@@ -1,0 +1,12 @@
+# robots.txt
+
+User-agent: *
+Disallow: /admin/
+ 
+User-agent: NinjaBot
+Disallow: /
+
+User-agent: deepcrawl
+Disallow: /
+
+# End robots.txt file
