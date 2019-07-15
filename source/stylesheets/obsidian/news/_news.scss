@@ -63,9 +63,9 @@
   }
   
   a {
-    color: $text-color;
+    color: $brand-red;
     &:hover, &:focus {
-      color: $text-color;
+      color: $brand-red;
       text-decoration: none;
     }
   }
