@@ -1,7 +1,7 @@
 { 
-name": "Redwave Marketing",
+"name": "Redwave Marketing",
 "short_name": "Redwave",
-"description": "",
+"description": "At Redwave Marketing, we specialise in providing digital marketing services to small businesses. We're experts in web development and all forms of marketing.",
 "icons":
 [{ "src": "/icons/icon-128x128.png","sizes": "128x128", "type": "image/png" },
 { "src": "/icons/icon-144x144.png", "sizes": "144x144", "type": "image/png" },
