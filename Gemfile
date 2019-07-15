@@ -5,8 +5,6 @@ gem "middleman-blog"
 gem 'middleman-autoprefixer'
 gem "middleman-livereload"
 
-gem 'builder', '~> 3.2', '>= 3.2.3'
-
 gem "slim"
 
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
