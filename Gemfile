@@ -4,7 +4,7 @@ gem 'middleman'
 gem "middleman-blog"
 gem 'middleman-autoprefixer'
 gem "middleman-livereload"
-gem 'middleman-sitemap', '~> 0.0.13'
+gem 'middleman-sitemap'
 
 gem "slim"
 
