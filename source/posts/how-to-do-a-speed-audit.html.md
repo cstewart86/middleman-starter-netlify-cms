@@ -1,6 +1,6 @@
 ---
 title: How to audit your website’s speed
-date: 2019-07-14T10:01:00.000Z
+date: 2019-07-13T10:01:00.000Z
 description: >-
   It’s now widely known that speed is one of the key factors that search engines
   use to determine the quality of your website. But how do you know if you have
@@ -21,7 +21,7 @@ It’s important to note that scores of 100 in this test are very rare. Here at 
 
 If your scores are significantly below this, you’re almost certainly being penalised to some extent by search engines so it’s worth taking the time to improve your score. 
 
-If you’re hungry for more information, you can also visit [website.grader.com](https://website.grader.com)<https://www.cloudflare.com/> which will analyse your site on a number of key areas, including speed.
+If you’re hungry for more information, you can also visit [website.grader.com](https://website.grader.com) which will analyse your site on a number of key areas, including speed.
 
 [GT Metrix](https://gtmetrix.com) is another good tool to assess site speed. The majority of recommendations it provides will only be understood by a developer but it does provide two grades, provided by two different scoring systems, which can give you an indication of how your site compares.
 
