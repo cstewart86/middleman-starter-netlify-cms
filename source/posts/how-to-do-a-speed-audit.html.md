@@ -13,7 +13,7 @@ In this guide we’ll take you through some diagnostic tests to determine whethe
 
 ## Auditing your website
 
-Your first port of call is Google Pagespeed Insights. This is a great tool which loads your site in Chrome in the background and spits out a list of recommendations to improve your website speed. 
+Your first port of call is [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/). This is a great tool which loads your site in Chrome in the background and spits out a list of recommendations to improve your website speed. 
 
 Some of the recommendations you receive will be quite technical but it will provide your site with a speed score out of 100 for both mobile and desktop users - the key distinction between the two is that, since mobile visitors are often on a slower connection, what might seem like a reasonable speed on a WiFi connection might be unusual for your mobile visitors.
 
@@ -23,7 +23,7 @@ If your scores are significantly below this, you’re almost certainly being pen
 
 If you’re hungry for more information, you can also visit website.grader.com which will analyse your site on a number of key areas, including speed.
 
-GT Metrix is another good tool to assess site speed. The majority of recommendations it provides will only be understood by a developer but it does provide two grades, provided by two different scoring systems, which can give you an indication of how your site compares.
+[GT Metrix](https://gtmetrix.com) is another good tool to assess site speed. The majority of recommendations it provides will only be understood by a developer but it does provide two grades, provided by two different scoring systems, which can give you an indication of how your site compares.
 
 ## Fixing any issues
 
@@ -33,7 +33,7 @@ A lot of speed issues are quite technical but we've set out below some fixes tha
 
 One of the major factors in a slow loading website is often image size. Fortunately this is quite an easy one to fix. 
 
-The best way that we have found to optimise our images is to use an app called Squoosh which was developed by the engineers at Google.
+The best way that we have found to optimise our images is to use an app called [Squoosh](https://squoosh.app) which was developed by the engineers at Google.
 
 You can load your images into Squoosh which will compress them without any visible loss of quality. You can then download the optimised versions and replace the unoptimised versions on your site.
 
