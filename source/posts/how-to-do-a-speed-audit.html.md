@@ -29,7 +29,7 @@ GT Metrix is another good tool to assess site speed. The majority of recommendat
 
 A lot of speed issues are quite technical but we've set out below some fixes that you can make with yourself along with some more technical considerations to allow you to have an informed discussion with your developer.
 
-## Optimising images
+### Optimising images
 
 One of the major factors in a slow loading website is often image size. Fortunately this is quite an easy one to fix. 
 
@@ -39,7 +39,7 @@ You can load your images into Squoosh which will compress them without any visib
 
 If you use WordPress, it’s also worth installing a plugin such as EWWW Image Optimizer or reSmush.it which will automatically compress any images you upload. They don’t tend to provide quite the same savings that Squoosh does but they do make the process very easy.
 
-## Use a content delivery network
+### Use a content delivery network
 
 Another optimisation which can have a dramatic effect on performance is the use of a content delivery network. 
 
@@ -51,7 +51,7 @@ These servers are also specially configured to be able to deliver files quickly.
 
 If you own a large website, a content delivery network can be expensive to run but for smaller websites, the leading content delivery network provider, Cloudflare, offers a free package.
 
-## Remove unused plugins
+### Remove unused plugins
 
 It’s possible that your website, particularly if it’s a Wordpress website, may have a large number of plugins. 
 
