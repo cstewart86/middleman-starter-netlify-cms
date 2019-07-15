@@ -21,7 +21,7 @@ It’s important to note that scores of 100 in this test are very rare. Here at 
 
 If your scores are significantly below this, you’re almost certainly being penalised to some extent by search engines so it’s worth taking the time to improve your score. 
 
-If you’re hungry for more information, you can also visit website.grader.com which will analyse your site on a number of key areas, including speed.
+If you’re hungry for more information, you can also visit [website.grader.com](https://website.grader.com)<https://www.cloudflare.com/> which will analyse your site on a number of key areas, including speed.
 
 [GT Metrix](https://gtmetrix.com) is another good tool to assess site speed. The majority of recommendations it provides will only be understood by a developer but it does provide two grades, provided by two different scoring systems, which can give you an indication of how your site compares.
 
@@ -49,7 +49,7 @@ What this means in practice is that rather than your visitors potentially waitin
 
 These servers are also specially configured to be able to deliver files quickly. 
 
-If you own a large website, a content delivery network can be expensive to run but for smaller websites, the leading content delivery network provider, Cloudflare, offers a free package.
+If you own a large website, a content delivery network can be expensive to run but for smaller websites, the leading content delivery network provider, [Cloudflare](https://www.cloudflare.com/), offers a free package.
 
 ### Remove unused plugins
 
