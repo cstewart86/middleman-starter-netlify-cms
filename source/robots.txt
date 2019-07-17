@@ -9,4 +9,6 @@ Disallow: /
 User-agent: deepcrawl
 Disallow: /
 
+Sitemap: https://www.redwave-marketing.com/sitemap.xml
+
 # End robots.txt file
