@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://redwave.netlify.com/* https://www.redwave-marketing.com/:splat 301!
