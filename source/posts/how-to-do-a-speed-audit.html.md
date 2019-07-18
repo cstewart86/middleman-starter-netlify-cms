@@ -1,5 +1,6 @@
 ---
 title: How to audit your website’s speed
+seoTitle: How to audit your website’s speed
 date: 2019-07-13T10:01:00.000Z
 description: >-
   It’s now widely known that speed is one of the key factors that search engines
