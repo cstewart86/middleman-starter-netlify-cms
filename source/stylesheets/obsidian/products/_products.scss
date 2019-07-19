@@ -1,8 +1,9 @@
 .products {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: $brand-sky-blue;
-
+  .homepage-products {
+    background-color: $brand-sky-blue;
+  }
   h2 {
     margin: 0 0 15px;
     color: $brand-red;
