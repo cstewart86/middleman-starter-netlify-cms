@@ -12,6 +12,10 @@
     color:#fff;
   }
 
+  a {
+    border-bottom: none;
+  }
+
   .product {
     @extend %column;
     @extend %col-sm-4;
