@@ -35,6 +35,7 @@
       border-bottom: none;
       &.active, &:hover, &:focus{
         color: $brand-red;
+        background-color: $brand-sky-blue;
       }
     }
     @media screen and (max-width: $screen-xs-max){
