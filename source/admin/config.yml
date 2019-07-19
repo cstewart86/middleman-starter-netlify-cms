@@ -19,11 +19,8 @@ collections:
       - {label: Title, name: title, widget: string, required: true}
       - {label: SEO title, name: seoTitle, widget: string}
       - {label: Meta description, name: metaDescription, widget: string}
-
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Image, name: image, widget: image, required: true}
-
-      - {label: Price, name: price, widget: number}
       - {label: Body, name: body, widget: markdown}
 
 #markdown middleman blog example
@@ -75,12 +72,3 @@ collections:
             fields:
               - {label: Label, name: label, widget: string}
               - {label: Path, name: path, widget: string}
-      - file: data/settings/units.yml
-        label: Units
-        name: units
-        fields:
-          - label: Currency
-            name: currency
-            widget: select
-            options: ['€', '$', '£']
-            default: '£'
