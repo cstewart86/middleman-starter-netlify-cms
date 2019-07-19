@@ -7,9 +7,9 @@ description: >-
   use to determine the quality of your website. But how do you know if you have
   a problem?
 metaDescription: >-
-  It’s now widely known that speed is one of the key factors that search engines
-  use to determine the quality of your website. But how do you know if you have
-  a problem?
+  It’s widely known that speed is a key factor that search engines use to
+  determine the quality of your website. But how do you know if you have a
+  problem?
 image: /images/uploads/1ca6c9b9-007e-4c08-85db-5b59497a2d7d.jpeg
 ---
 It’s now widely known that speed is one of the key factors that search engines use to determine the quality of your website. But how do you know if you have a problem?
