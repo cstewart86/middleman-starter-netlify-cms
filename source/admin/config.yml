@@ -17,7 +17,7 @@ collections:
     slug: '{{title}}'
     fields:
       - {label: "Title", name: "title", widget: "string", required: "true"}
-      - {label: "SEO title", name: "seoTitle", widget: "text"}
+      - {label: "SEO title", name: "seoTitle", widget: "string"}
       - {label: "Meta description", name: "metaDescription", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: "true"}
