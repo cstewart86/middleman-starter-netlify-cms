@@ -18,6 +18,8 @@ collections:
     fields:
       - {label: Title, name: title, widget: string, required: true}
       - {label: SEO title, name: seoTitle, widget: string}
+      - {label: Meta description, name: metaDescription, widget: string}
+
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Image, name: image, widget: image, required: true}
 
@@ -38,6 +40,7 @@ collections:
       - {label: SEO title, name: seoTitle, widget: string}
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Description, name: description, widget: string}
+      - {label: Meta description, name: metaDescription, widget: string}
       - {label: Image, name: image, widget: image}
       - {label: Body, name: body, widget: markdown}
 
@@ -54,6 +57,7 @@ collections:
             fields:
               - {label: Title, name: title, widget: string}
               - {label: SEO title, name: seoTitle, widget: string}
+              - {label: Meta description, name: metaDescription, widget: string}
               - {label: Image, name: image, widget: image}
           - label: Story
             name: story
