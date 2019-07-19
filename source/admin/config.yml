@@ -67,9 +67,9 @@ collections:
             widget: object
             fields:
               - {label: "Title", name: "title", widget: "string"}
-              - {label: "SEO title", name: "seoTitle", widget: "string"}
-              - {label: "Meta description", name: "metaDescription", widget: "text"}
               - {label: "Image", name: "image", widget: "image"}
+          - {label: "SEO title", name: "seoTitle", widget: "string"}
+          - {label: "Meta description", name: "metaDescription", widget: "text"}
           - label: Story
             name: story
             widget: markdown
