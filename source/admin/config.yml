@@ -84,9 +84,3 @@ collections:
             widget: select
             options: ['€', '$', '£']
             default: '£'
-
-          - label: Weight
-            name: weight
-            widget: select
-            options: ['kg', ' st', ' lb']
-            default: 'kg'
