@@ -31,6 +31,7 @@
       font-size: 18px;
       font-weight: 700;
       color: $text-color;
+      border-bottom: none;
       &.active, &:hover, &:focus{
         color: $brand-red;
       }
