@@ -17,7 +17,7 @@ a {
   &:hover, &:focus {
       color: $brand-red;
       text-decoration: none;
-      background-color: lighten( $brand-red, 60% )
+      background-color: lighten( $brand-red, 50% )
     }
 }
 
