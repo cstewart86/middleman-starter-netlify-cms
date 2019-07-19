@@ -61,14 +61,6 @@
   p {
     margin-top: 15px;
   }
-  
-  a {
-    color: $brand-red;
-    &:hover, &:focus {
-      color: $brand-red;
-      text-decoration: none;
-    }
-  }
 
   a.cta {
     font-size: 18px;
