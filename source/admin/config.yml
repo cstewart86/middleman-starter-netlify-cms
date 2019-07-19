@@ -16,12 +16,12 @@ collections:
     create: true
     slug: '{{title}}'
     fields:
-      - {label: "Title", name: "title", widget: "string", required: true}
-      - {label: "SEO title", name: "seoTitle", widget: "string"}
-      - {label: "Meta description", name: "metaDescription", widget: "text"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image", required: true}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: Title, name: title, widget: string, required: true}
+      - {label: SEO title, name: seoTitle, widget: string}
+      - {label: Meta description, name: metaDescription, widget: text}
+      - {label: Publish Date, name: date, widget: datetime}
+      - {label: Image, name: image, widget: image, required: true}
+      - {label: Body, name: body, widget: markdown}
 
 #markdown middleman blog example
   - name: blog
@@ -32,13 +32,13 @@ collections:
     create: true
     slug: '{{title}}'
     fields:
-      - {label: "Title", name: "title", widget: "string", required: true}
-      - {label: "SEO title", name: "seoTitle", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Meta description", name: "metaDescription", widget: "text"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: Title, name: title, widget: string, required: true}
+      - {label: SEO title, name: seoTitle, widget: string}
+      - {label: Publish Date, name: date, widget: datetime}
+      - {label: Description, name: description, widget: string}
+      - {label: Meta description, name: metaDescription, widget: text}
+      - {label: Image, name: image, widget: image}
+      - {label: Body, name: body, widget: markdown}
 
   - name: pages
     label: Pages
@@ -51,10 +51,10 @@ collections:
             name: hero
             widget: object
             fields:
-              - {label: "Title", name: "title", widget: "string"}
-              - {label: "SEO title", name: "seoTitle", widget: "string"}
-              - {label: "Meta description", name: "metaDescription", widget: "text"}
-              - {label: "Image", name: "image", widget: "image"}
+              - {label: Title, name: title, widget: string}
+              - {label: SEO title, name: seoTitle, widget: string}
+              - {label: Meta description, name: metaDescription, widget: text}
+              - {label: Image, name: image, widget: image}
           - label: Story
             name: story
             widget: markdown
