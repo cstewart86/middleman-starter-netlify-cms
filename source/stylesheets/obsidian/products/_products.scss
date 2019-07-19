@@ -8,6 +8,10 @@
     color: $brand-red;
   }
 
+  p {
+    color:#fff;
+  }
+
   .product {
     @extend %column;
     @extend %col-sm-4;
