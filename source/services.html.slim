@@ -8,6 +8,8 @@ section.products
     h1
       | Services
     .row
+      p View a full list of our web development and digital marketing skills for small businesses and startups.
+    .row
       //product is structured: ['filename', 'data']
       //sort by newest product
       - data.products.sort {|a,b| b[1].date <=> a[1].date}.each do | product |
