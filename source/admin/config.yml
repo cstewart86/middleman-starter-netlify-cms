@@ -44,8 +44,23 @@ collections:
     label: Pages
     files:
       - file: "data/pages/home.yml"
-        label: Homepage
+        label: Home page
         name: home
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "SEO title", name: "seoTitle", widget: "string"}
+              - {label: "Meta description", name: "metaDescription", widget: "text"}
+              - {label: "Image", name: "image", widget: "image"}
+          - label: Story
+            name: story
+            widget: markdown
+      - file: "data/pages/contact.yml"
+        label: Contact page
+        name: contact
         fields:
           - label: Hero
             name: hero
