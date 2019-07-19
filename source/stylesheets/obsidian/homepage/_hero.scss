@@ -15,13 +15,6 @@
     @extend %col-xs-8;
     margin: 0;
     padding-top: 15px;
-
-    @media screen and (max-width: $screen-md-max){
-      padding-top: 15px;
-    }
-    @media screen and (max-width: $screen-xs-max){
-      padding-top: 15px;
-    }
   }
   @media screen and (max-width: 400px){
     padding-bottom: 50%;
