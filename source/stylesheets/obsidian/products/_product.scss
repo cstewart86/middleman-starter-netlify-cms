@@ -11,7 +11,6 @@
 
   a {
     display: block;
-    color: $brand-red;
     box-shadow: 0 0 0 rgba(0, 0, 0, 0);
     transition: box-shadow 400ms ease-in-out;
   }
@@ -30,19 +29,8 @@
     text-align:center;
   }
 
-  .title, .price {
+  .title {
     display: inline-block;
-  }
-
-  .price p {
-    font-size: 24px;
-    font-weight: 700;
-  }
-
-  .price {
-    float: right;
-    font-size: 24px;
-    color: $brand-red;
   }
 
   h3 {
