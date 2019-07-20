@@ -70,6 +70,14 @@ Plugins can be an incredibly useful and cost effective way of adding advanced fu
 
 If there are plugins on your site which you don’t use, removing them is likely to improve the speed of your site.
 
+### Reduce the number of files used on your website
+
+If the tools mentioned above flag that your website has 'too many HTTP requests' then you'll want to look at reducing the number of files your website serves.
+
+This doesn't necessarily mean visible files such as images and PDFs but can include the files which dictate how your website looks and functions.
+
+A common fix is to remove unused files and to bundle others. Your developer will be able to talk you through the pros and cons of these approaches.
+
 ## Can we help?
 
 We're passionate about helping small businesses punch above their weight online and we'd be happy to give further advice.
