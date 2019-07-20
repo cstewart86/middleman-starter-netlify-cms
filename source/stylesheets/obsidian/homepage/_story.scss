@@ -4,7 +4,7 @@
   .story-content {
     @extend %column;
     @extend %col-sm-8;
-    padding-top: 20px;
+    padding-top: 60px;
     padding-bottom: 60px;
     color: rgba(255, 255, 255, 1);
 
@@ -23,7 +23,7 @@
     }
 
     @media screen and(max-width: $screen-xs-max){
-      padding-top: 30px;
+      padding-top: 10px;
       padding-bottom: 30px;
 
       p {
