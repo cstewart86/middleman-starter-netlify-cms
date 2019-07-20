@@ -24,7 +24,7 @@ Some of the recommendations you receive will be quite technical but it will prov
 
 ![A snapshot of a Google Pagespeed Insights report, showing a desktop score of 100%](/images/uploads/D50CB878-92A8-46BE-89FF-C42482F29195.png)
 
-It’s important to note that scores of 100 in this test are very rare. Here at Redwave, we always ensure that our sites achieve a minimum score of 90 on mobile and 95 on desktop.
+It’s important to note that scores of 100 in this test are rare. Here at Redwave, we always ensure that our sites achieve a minimum score of 90 on mobile and 95 on desktop.
 
 If your scores are significantly below this, you’re almost certainly being penalised to some extent by search engines so it’s worth taking the time to improve your score. 
 
