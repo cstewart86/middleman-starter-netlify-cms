@@ -78,6 +78,16 @@ This doesn't necessarily mean visible files such as images and PDFs but can incl
 
 A common fix is to remove unused files and to bundle others. Your developer will be able to talk you through the pros and cons of these approaches.
 
+### Reduce the size of code files
+
+The code files on your website (those we've mentioned above which dictate the design and functionality of your site) can often be unnecessarily bloated.
+
+This can be caused by a number of issues but the most common is that a framework such as Bootstrap has been used and your website only uses a small amount of its functionality.
+
+Whatever the cause, this issue can have a significant effect on the speed on your site as the browser has to download each file and then interpret it before it can load your site.
+
+Cutting unused parts of your files will help as will 'minification' - the practice of removing spaces and developer notes from the files.
+
 ## Can we help?
 
 We're passionate about helping small businesses punch above their weight online and we'd be happy to give further advice.
