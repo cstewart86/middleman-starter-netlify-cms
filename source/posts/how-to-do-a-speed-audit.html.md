@@ -20,7 +20,7 @@ In this guide we’ll take you through some diagnostic tests to determine whethe
 
 Your first port of call is [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/). This is a great tool which loads your site in Chrome in the background and spits out a list of recommendations to improve your website speed. 
 
-Some of the recommendations you receive will be quite technical but it will provide your site with a speed score out of 100 for both mobile and desktop users - the key distinction between the two is that, since mobile visitors are often on a slower connection, what might seem like a reasonable speed on a WiFi connection might be unusual for your mobile visitors.
+Some of the recommendations you receive will be quite technical but it will provide your site with a speed score out of 100 for both mobile and desktop users - the key distinction between the two is that, since mobile visitors are often on a slower connection, what might seem like a reasonable speed on a WiFi connection might be unusually show for your mobile visitors.
 
 ![A snapshot of a Google Pagespeed Insights report, showing a desktop score of 100%](/images/uploads/D50CB878-92A8-46BE-89FF-C42482F29195.png)
 
