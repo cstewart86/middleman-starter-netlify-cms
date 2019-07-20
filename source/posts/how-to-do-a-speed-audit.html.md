@@ -28,7 +28,11 @@ If your scores are significantly below this, you’re almost certainly being pen
 
 If you’re hungry for more information, you can also visit [website.grader.com](https://website.grader.com) which will analyse your site on a number of key areas, including speed.
 
+![A snapshot of a report from website.grader, showing its four scoring categories of performance, mobile, SEO and security.](/images/uploads/website-grader.png)
+
 [GT Metrix](https://gtmetrix.com) is another good tool to assess site speed. The majority of recommendations it provides will only be understood by a developer but it does provide two grades, provided by two different scoring systems, which can give you an indication of how your site compares.
+
+![A snapshot of a report from GT Metrix, showing its grades from PageSpeed and YSlow](/images/uploads/gt-metrix.png)
 
 ## Fixing the issues
 
