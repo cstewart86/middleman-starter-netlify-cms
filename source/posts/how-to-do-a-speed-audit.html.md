@@ -88,6 +88,16 @@ Whatever the cause, this issue can have a significant effect on the speed on you
 
 Cutting unused parts of your files will help as will 'minification' - the practice of removing spaces and developer notes from the files.
 
+### Give priority to the content that visitors will see first
+
+Your site may need a large number of files but how many of them are needed when a visitor first loads your site?
+
+Some of the files on your site may need to be loaded before others, such as your hero image or a code library such as jQuery but, often, there are a large number of files on your site which won't be needed until a visitor scrolls down the page.
+
+The solution is to defer the loading of code files or load them asynchronously (this downloads them in parallel with other content, meaning that they don't block the loading of the rest of the page) and to lazyload some images (they will only load as they scroll into view).
+
+You'll want your developer to look at the loading of your code files but there may be plugins you can use to lazyload your images. For example, if your site is built on WordPress, you can use WP Rocket.
+
 ## Can we help?
 
 We're passionate about helping small businesses punch above their weight online and we'd be happy to give further advice.
