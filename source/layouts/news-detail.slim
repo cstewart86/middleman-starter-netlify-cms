@@ -13,6 +13,3 @@
 
       .row.content
         = yield
-
-script[type="application/ld json"]
-  |  { "@context": "http://schema.org", "@type": "NewsArticle", "mainEntityOfPage": { "@type": "WebPage", "@id": current_page.url }, "headline": current_page.data.title, "image": { "@type": "ImageObject", "url": current_page.data.image }, "datePublished": Date.parse current_page.data.date.to_s.strftime("%Y-%m-%d"), "dateModified": Date.parse current_page.data.date.to_s.strftime("%Y-%m-%d"), "publisher": { "@type": "Organization", "name": "Redwave Marketing", "logo": { "@type": "ImageObject", "url": "https://www.redwave-marketing.com/images/redwave@2x.png" } }, "description": current_page.data.description } 
