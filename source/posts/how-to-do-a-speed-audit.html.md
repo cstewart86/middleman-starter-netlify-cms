@@ -110,6 +110,8 @@ Preloading can give your browser a head start by allowing your browser to downlo
 
 ## Can we help?
 
+This is not an exhaustive list of tactics that can be used to speed up your website but we hope it gives you some insight.
+
 We're passionate about helping small businesses punch above their weight online and we'd be happy to give further advice.
 
 [Contact us](/contact/) for an informal, no obligation chat.
