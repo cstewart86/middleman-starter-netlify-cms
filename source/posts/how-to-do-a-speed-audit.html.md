@@ -62,14 +62,6 @@ These servers are also specially configured to be able to deliver files quickly.
 
 If you own a large website, a content delivery network can be expensive to run but for smaller websites, the leading content delivery network provider, [Cloudflare](https://www.cloudflare.com/), offers a free package.
 
-### Remove unused plugins
-
-It’s possible that your website, particularly if it’s a Wordpress website, may have a large number of plugins. 
-
-Plugins can be an incredibly useful and cost effective way of adding advanced functionality to your website but they often come with a speed cost. 
-
-If there are plugins on your site which you don’t use, removing them is likely to improve the speed of your site.
-
 ### Reduce the number of files used on your website
 
 If the tools mentioned above flag that your website has 'too many HTTP requests' then you'll want to look at reducing the number of files your website serves.
@@ -98,7 +90,7 @@ The solution is to defer the loading of code files or load them asynchronously (
 
 You'll want your developer to look at the loading of your code files but there may be plugins you can use to lazyload your images. For example, if your site is built on WordPress, you can use WP Rocket.
 
-### Preloading files ahead of time.
+### Preloading files ahead of time
 
 Another tactic that is often used in conjunction with deferred loading is preloading.
 
@@ -117,6 +109,16 @@ When a visitor visits your site, you can store a version of files which will not
 For regular visitors to your site, this can shave several seconds off loading times.
 
 Once again, if your site is built on WordPress, there are plugins that can help you with this. WP Rocket (mentioned above) as well as W3 Total Cache and WP Super Cache can do much of the work for you.
+
+### Remove unused plugins
+
+Many of the recommendations above recommend the use of plugins but it's possible to have too many plugins. Each plugin you install will add more code to your site which can lead to your site becoming bloated.
+
+It’s possible that your website, particularly if it’s a Wordpress website, may have a large number of plugins. 
+
+Plugins can be an incredibly useful and cost effective way of adding advanced functionality to your website but they often come with a speed cost. 
+
+If there are plugins on your site which you don’t use, removing them is likely to improve the speed of your site.
 
 ## Can we help?
 
