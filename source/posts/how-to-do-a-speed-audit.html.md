@@ -110,6 +110,16 @@ For regular visitors to your site, this can shave several seconds off loading ti
 
 Once again, if your site is built on WordPress, there are plugins that can help you with this. WP Rocket (mentioned above) as well as W3 Total Cache and WP Super Cache can do much of the work for you.
 
+### Compress files
+
+You'll almost certainly be familiar with the concept of adding files on your computer to a Zip file to reduce their file size and a similar technique can be applied to website files.
+
+Known as Gzip, the software sends heavily compressed versions of your files to visitors, meaning that they can be downloaded more quickly.
+
+A number of more modern compression technologies are also growing in prominence, most notably Brotli and Zopfli, and these technologies deliver even greater compression, although they have not yet been widely adopted.
+
+Again, WordPress site owners are in luck as there are a number of plugins to enable Gzip, including WP Rocket.
+
 ### Remove unused plugins
 
 Many of the recommendations above recommend the use of plugins but it's possible to have too many plugins. Each plugin you install will add more code to your site which can lead to your site becoming bloated.
