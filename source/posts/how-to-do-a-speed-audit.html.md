@@ -98,6 +98,16 @@ The solution is to defer the loading of code files or load them asynchronously (
 
 You'll want your developer to look at the loading of your code files but there may be plugins you can use to lazyload your images. For example, if your site is built on WordPress, you can use WP Rocket.
 
+### Preloading files ahead of time.
+
+Another tactic that is often used in conjunction with deferred loading is preloading.
+
+Your browser reads the code of your website from top to bottom and it will only start loading files needed for a particular section (such as images) when it reaches that part of your site.
+
+This can cause delays in the loading of your page as the browser has to pause loading the rest of your page as it downloads the file.
+
+Preloading can give your browser a head start by allowing your browser to download the file ahead of time so it is ready and waiting when needed.
+
 ## Can we help?
 
 We're passionate about helping small businesses punch above their weight online and we'd be happy to give further advice.
