@@ -1,7 +1,7 @@
 xml.instruct!
 xml.urlset xmlns: "http://www.sitemaps.org/schemas/sitemap/0.9" do
   pages = sitemap.resources.select do |page|
-    page.path =~ /\.html/
+    page.path =~ /\.redwave-marketing.com/
   end
 
   pages.each do |page|
