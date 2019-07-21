@@ -108,6 +108,16 @@ This can cause delays in the loading of your page as the browser has to pause lo
 
 Preloading can give your browser a head start by allowing your browser to download the file ahead of time so it is ready and waiting when needed.
 
+### Caching
+
+Caching is another tactic that can make a big difference to the loading time of your website but only for repeat visitors.
+
+When a visitor visits your site, you can store a version of files which will not change, such as images, so that they will not need to be downloaded again on future visits.
+
+For regular visitors to your site, this can shave several seconds off loading times.
+
+Once again, if your site is built on WordPress, there are plugins that can help you with this. WP Rocket (mentioned above) as well as W3 Total Cache and WP Super Cache can do much of the work for you.
+
 ## Can we help?
 
 This is not an exhaustive list of tactics that can be used to speed up your website but we hope it gives you some insight.
