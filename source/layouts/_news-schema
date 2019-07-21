@@ -1,0 +1,1 @@
+- headline = product && product.seoTitle || current_page.data.seoTitle || current_page.data.title || "Digital marketing agency for small businesses | Redwave Marketing"
