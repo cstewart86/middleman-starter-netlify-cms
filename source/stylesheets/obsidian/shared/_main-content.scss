@@ -11,7 +11,7 @@
                 font-size: 18px;
 	}
 	input {
-		border: 1px solid #888;
+		border: 1px solid #999;
 		height: 30px;
 		width: 100%;
                 display: block;
@@ -25,12 +25,15 @@
 	}
 	textarea {
 		height: auto;
-		border: 1px solid #888;
+		border: 1px solid #999;
 		width: 100%;
 		font-size: 18px;
 		padding: 20px 20px 30px 20px;
                 -webkit-appearance: none;
                 -moz-appearance: none;
+                &:focus, &:hover, &:active {
+                  border: 1px solid $brand-red;
+                }
     	}
 }
 
