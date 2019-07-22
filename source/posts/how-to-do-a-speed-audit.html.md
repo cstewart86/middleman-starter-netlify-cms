@@ -2,6 +2,8 @@
 title: How to audit your website’s speed
 seoTitle: How to audit your website’s speed | Redwave Marketing
 date: 2019-07-21T11:08:00.000Z
+origPublish: '2019-07-11'
+modPublish: '2019-07-21'
 description: >-
   It’s now widely known that speed is one of the key factors that search engines
   use to determine the quality of your website. But how do you know if you have
